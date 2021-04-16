@@ -1,0 +1,24 @@
+* {
+  cursor: url(../img/ore_3.png), default;
+}
+
+body {
+  background-color: limegreen;
+  
+}
+
+a {
+  cursor: pointer;
+}
+
+.imgChaw {
+  display: block;
+  width: 480px;
+  height: 486px;
+  margin: auto;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  top: 0;
+}
